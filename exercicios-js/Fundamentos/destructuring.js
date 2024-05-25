@@ -1,7 +1,7 @@
 /**
  * Novo recurso do ES2015
  * Operador destructuring, desestruturação;
- * Representado por {}
+ * Representado por {} no contexto de objetos e [] no contexto de arrays.
  */
 
 const pessoa = {
